@@ -1,5 +1,6 @@
 public class funcion1 {
     public static void main(String[] args) {
+        //20 iteraciones
         int i,n=20,j=1;
         System.out.println("F(x)=sin(e^x/x^-1)");
             for(i=1;i<=n;i++){
